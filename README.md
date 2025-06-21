@@ -47,7 +47,6 @@ The data is combination of integer, binary and textual datatypes. A brief defini
 
 Since most of the datatypes are either Booleans or text a summary statistic is not needed here. The only integer is job_id which is not relevant for this analysis. The dataset is further explored to identify null values.
 
-![missing values](Images/missing_values.png)
 
 Variables such as department and salary_range have a lot of missing values. These columns are dropped from further analysis. 
 
