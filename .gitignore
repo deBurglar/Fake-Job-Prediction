@@ -1,0 +1,9 @@
+To ignore things like checkpoints, compiled files, etc. Create a file named `.gitignore` and paste:
+
+pycache/
+.ipynb_checkpoints/
+*.pyc
+.env
+*.pkl
+*.joblib
+.DS_Store
